@@ -1,30 +1,22 @@
 # JupyterLite Demonstrating PubMed_Central_ID_Converter_for_humans
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://fomightez.github.io/lite_PMC_Converter4Humans)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://fomightez.github.io/lite_PMC_Converter4Humans/lab/index.html?fromURL=https://raw.githubusercontent.com/fomightez/PubMed_Central_ID_Converter_for_humans/refs/heads/main/notebooks/jupyterlite_demo.ipynb)
 
-JupyterLite offering for demonstrating the package PubMed_Central_ID_Converter_for_humans, which is  simple library for using the PubMed Central ID Convert API for biomedical and scientific literature in modern Python/Jupyter ecosystems.
+JupyterLite offering for demonstrating the package PubMed_Central_ID_Converter_for_humans, which is  simple library for using the PubMed Central ID Convert API for biomedical and scientific literature in modern Python/Jupyter ecosystems.  
+See [my PubMed_Central_ID_Converter_for_humans repo](https://github.com/fomightez/PubMed_Central_ID_Converter_for_humans) for more information about the package featured in the demonstration.
 
-## ✨ Try it in your browser ✨
+JupyterLite, while still having some rough edges allows more privac & addressing security concerns than MyBinder because the compute and edited notebooks stay on the local machine. Since this package looks up things on public databases, it probably isn't much a concern for this package; however, it being in JupyterLite may more easily allow it to work in more secure/private situations upstream or downstream in a workflow.
 
-➡️ **https://fomightez.github.io/lite_PMC_Converter4Humans**
+--------------------------------------
 
+## ✨ Try it in your browser using JupyterLite ✨
 
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
-
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
-
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
+➡️ **[https://fomightez.github.io/lite_PMC_Converter4Humans](https://fomightez.github.io/lite_PMC_Converter4Humans/lab/index.html?fromURL=https://raw.githubusercontent.com/fomightez/PubMed_Central_ID_Converter_for_humans/refs/heads/main/notebooks/jupyterlite_demo.ipynb)**
 
 
+-------------------------
+
+
+See [my PubMed_Central_ID_Converter_for_humans repo](https://github.com/fomightez/PubMed_Central_ID_Converter_for_humans) for more information about the package featured in the demonstration.  
+
+The notebook featured in this demonstration is actually stored [there](https://github.com/fomightez/PubMed_Central_ID_Converter_for_humans/tree/main/notebooks). It is loaded at the startup using [the extension jupyterlab-open-url-parameter](https://github.com/jupyterlab-contrib/jupyterlab-open-url-parameter). This allows the content to be separate from the JupyterLite deployment repo. I'm keeping the pre-installed packages sparse in the deployment so that the demo can cover more disparate situations and be more easily updatable.
