@@ -9,7 +9,7 @@ JupyterLite, while still having some rough edges allows more privac & addressing
 
 --------------------------------------
 
-## ✨ Try it in your browser using JupyterLite ✨
+## ✨ Try the package in your browser using JupyterLite ✨
 
 ➡️ **[https://fomightez.github.io/lite_PMC_Converter4Humans](https://fomightez.github.io/lite_PMC_Converter4Humans/lab/index.html?fromURL=https://raw.githubusercontent.com/fomightez/PubMed_Central_ID_Converter_for_humans/refs/heads/main/notebooks/jupyterlite_demo.ipynb)**
 
