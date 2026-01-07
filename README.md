@@ -1,8 +1,8 @@
-# JupyterLite Demo
+# JupyterLite Demonstrating PubMed_Central_ID_Converter_for_humans
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+JupyterLite offering for demonstrating the package PubMed_Central_ID_Converter_for_humans, which is  simple library for using the PubMed Central ID Convert API for biomedical and scientific literature in modern Python/Jupyter ecosystems.
 
 ## ✨ Try it in your browser ✨
 
