@@ -1,6 +1,6 @@
 # JupyterLite Demonstrating PubMed_Central_ID_Converter_for_humans
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://fomightez.github.io/lite_PMC_Converter4Humans)
 
 JupyterLite offering for demonstrating the package PubMed_Central_ID_Converter_for_humans, which is  simple library for using the PubMed Central ID Convert API for biomedical and scientific literature in modern Python/Jupyter ecosystems.
 
