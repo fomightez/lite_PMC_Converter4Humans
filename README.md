@@ -5,7 +5,7 @@
 JupyterLite offering for demonstrating the package PubMed_Central_ID_Converter_for_humans, which is  simple library for using the PubMed Central ID Convert API for biomedical and scientific literature in modern Python/Jupyter ecosystems.  
 See [my PubMed_Central_ID_Converter_for_humans repo](https://github.com/fomightez/PubMed_Central_ID_Converter_for_humans) for more information about the package featured in the demonstration.
 
-JupyterLite, while still having some rough edges allows more privac & addressing security concerns than MyBinder because the compute and edited notebooks stay on the local machine. Since this package looks up things on public databases, it probably isn't much a concern for this package; however, it being in JupyterLite may more easily allow it to work in more secure/private situations upstream or downstream in a workflow.
+JupyterLite, while still having some rough edges allows more privacy & addressing security concerns than MyBinder because the compute and edited notebooks stay on the local machine. Since this package looks up things on public databases, it probably isn't much a concern for this package; however, it being in JupyterLite may more easily allow it to work in more secure/private situations upstream or downstream in a workflow.
 
 --------------------------------------
 
