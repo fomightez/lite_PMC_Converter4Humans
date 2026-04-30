@@ -11,7 +11,7 @@ JupyterLite, while still having some rough edges allows more privacy & addressin
 
 ## ✨ Try the package in your browser using JupyterLite ✨
 
-➡️ **[https://fomightez.github.io/lite_PMC_Converter4Humans](https://fomightez.github.io/lite_PMC_Converter4Humans/lab/index.html?fromURL=https://raw.githubusercontent.com/fomightez/PubMed_Central_ID_Converter_for_humans/refs/heads/main/notebooks/jupyterlite_demo.ipynb)**
+➡️ **[launch https://fomightez.github.io/lite_PMC_Converter4Humans with `jupyterlite_demo.ipynb` as content in JupyterLab interface USING A SPECIAL URL](https://fomightez.github.io/lite_PMC_Converter4Humans/lab/index.html?fromURL=https://raw.githubusercontent.com/fomightez/PubMed_Central_ID_Converter_for_humans/refs/heads/main/notebooks/jupyterlite_demo.ipynb)**
 
 
 -------------------------
